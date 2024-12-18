@@ -76,4 +76,5 @@ class Sample {
         String str = "TNSIF"; 
         int n = 3; 
         printZigZagConcat(str, n); 
+        System.out.println("Hello Coders....");
     } }
